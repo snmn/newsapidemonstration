@@ -2,7 +2,7 @@ import 'model/news.dart';
 
 class StaticValue{
  static String apikey = "a25a0c0b883c4f389ff5c23da0f9dfea";
- static String baseurl = "http://newsapi.org/v2/everything?q=bitcoin&from=2020-04-24&sortBy=publishedAt";
+ static String baseurl = "http://newsapi.org/v2/everything?q=bitcoin&from=2020-05-20&sortBy=publishedAt";
 
  //tested data for ui design
 // static news newsdata = new news(
