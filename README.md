@@ -1,6 +1,6 @@
-# assignment
+# news api with given UI design
 
-a assignment for news api
+news api with given UI design
 
 ## Getting Started
 
